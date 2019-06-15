@@ -1,0 +1,6 @@
+admin admin ad
+
+client1 123 cl
+client2 123 cl
+cus1 123 cu
+cus2 123 cu

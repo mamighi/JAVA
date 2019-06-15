@@ -1,0 +1,2 @@
+New?York?to?New?York port1-port2- client1 20
+Osinina?to?Kingston port- client2 100
